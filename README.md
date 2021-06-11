@@ -22,9 +22,9 @@ HOMEWORK
 ![image](./assets/img/work-day-scheduler.png)
 
 ## Links
-[REPOSITORY](https://github.com/stongems)
+[REPOSITORY](link.com)
 ```
-none
+https://github.com/stongems
 ```
 
 [DEPLOYED](link.com)
