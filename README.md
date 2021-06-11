@@ -24,10 +24,10 @@ HOMEWORK
 ## Links
 [REPOSITORY](https://github.com/stongems)
 ```
-https://github.com/stongems
+none
 ```
 
 [DEPLOYED](link.com)
 ```
-link.com
+https://stongems.github.io/work-day-scheduler/git 
 ```
