@@ -19,7 +19,8 @@ HOMEWORK
 *   THEN the saved events persist
 
 ## Design
-![image](./assets/img/work-day-scheduler.png)
+![image](link.com)
+./assets/img/work-day-scheduler.png 
 
 ## Links
 [REPOSITORY](link.com)
