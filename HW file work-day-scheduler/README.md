@@ -19,7 +19,7 @@ HOMEWORK
 *   THEN the saved events persist
 
 ## Design
-![image](https://github.com/stongems/work-day-scheduler/blob/main/img/work-day-scheduler.png)
+![image](HW20%file20%work-day-scheduler/Img/work-day-scheduler.png)
 ```
 ./img/work-day-scheduler.png 
 ```
