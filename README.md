@@ -21,7 +21,7 @@ HOMEWORK
 ## Design
 ![image](./img/work-day-scheduler.png)
 ```
-./assets/img/work-day-scheduler.png 
+./img/work-day-scheduler.png 
 ```
 ## Links
 [REPOSITORY](link.com)
