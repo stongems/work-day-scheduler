@@ -1,6 +1,6 @@
 // ********* BROKEN SAVE FUNCTION************//
 
-
+const saveBtn = $(`#currentDay`)
 
 
 console.log("test");
@@ -33,6 +33,10 @@ $(".time-block").each(function () {
   
 });
 
-// ^^^^^^^^^THE TEXT WILL NOT SAVE POST REFRESH^^^^^^^^^^^^
-// JS need a DOM traversal to and from the text box********
+// saveBtn.addEventListener("click", function () {
+//
+
+// });
+
+
 

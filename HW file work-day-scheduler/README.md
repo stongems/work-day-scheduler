@@ -31,5 +31,5 @@ https://github.com/stongems
 
 [DEPLOYED](link.com)
 ```
-https://stongems.github.io/work-day-scheduler/git 
+https://stongems.github.io/work-day-scheduler/
 ```
