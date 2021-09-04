@@ -158,10 +158,5 @@ $(".time-block").each(function () {
   
 });
 
-// saveBtn.addEventListener("click", function () {
-//
-
-// });
-
 
 
